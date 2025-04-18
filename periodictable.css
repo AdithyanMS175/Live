@@ -1,0 +1,99 @@
+
+  h1 {
+    text-align: center;
+  }
+  .name{
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+  }
+  .Periodic {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;  
+    justify-content: center;
+  }
+  .container{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  
+  .elem{
+    border: 2px solid;
+    border-radius: 12px;
+   color: white;
+    font-size: 16px;
+    height: 55px;
+    width: 55px;
+    align-content: center;
+    
+  }
+  
+  
+  .name2{
+    width:100px;
+    align-content: center;
+  }
+
+  
+  .lanth{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+    
+  }
+  .actin{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }
+  .darkblue{
+    background-color:darkblue;
+  }
+  .purple{
+    background-color: purple;
+  }
+  .red{
+    background-color: red;
+  }
+  .pink{
+    background-color: pink;
+  }
+  .blue{
+    background-color: rgb(66, 66, 255);
+  }
+  .lightblue{
+    background-color: lightblue;
+  }
+  .lightgreen{
+    background-color: lightgreen;
+  }
+  .grey{
+    background-color: grey;
+  }
+  .wierd{
+    background-color: lightseagreen;
+  }
+  .orange{
+    background-color: orange;
+  }
+  .lsalmon{
+    background-color: lightsalmon;
+  }
+  .black{
+    color: black;
+    border-color: white;
+    text-align: center;
+  }
+.number{
+  
+  margin-left: 5px;
+  color: white;
+}
